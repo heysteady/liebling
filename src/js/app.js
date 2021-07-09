@@ -380,6 +380,7 @@ $(() => {
 
   tippy('.js-tooltip')
 
+  shave('.js-article-card-excerpt', 50)
   shave('.js-article-card-title', 100)
   shave('.js-article-card-title-no-image', 250)
 
